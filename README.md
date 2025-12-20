@@ -34,7 +34,7 @@ https://github.com/user-attachments/assets/fc672bf0-0746-4a45-a51c-766cad34beb5
 <br><br>
 
 
-## [***Blueshift  - ***Solana Agentic Hackathon***]()
+## [**Blueshift** - Solana Agentic Hackathon***]()
 
 
 <br><br>
