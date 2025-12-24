@@ -28,18 +28,15 @@
 
 [https://github.com/user-attachments/assets/fc672bf0-0746-4a45-a51c-766cad34beb5](https://github.com/user-attachments/assets/fc672bf0-0746-4a45-a51c-766cad34beb5)
 
-###### <p align="center">
-  Hello [World]() !
-  <br/>
-  Code is Logic. [Dance is Expression.]()
-  <br/>
-  Built on [Solana]().
-  <br/>
-  [Music](): “DO IT LIKE THAT” by Epshy
-  <br/>
-  [Video]() by Fabi⚡️
+<p align="left">
+  <sub>
+     Hello World ! <br/>
+    Code is Logic · Dance is Expression<br/>
+    Built on Solana<br/>
+    🎶 DO IT LIKE THAT — Epshy<br/>
+    🎥 by Fabi ⚡️
+  </sub>
 </p>
-
 
 <br><br>
 
