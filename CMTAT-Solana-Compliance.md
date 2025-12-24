@@ -2,7 +2,10 @@
 
 # CMTAT Solana Specification v1.0.0
 
-**Reference Repository:** https://github.com/CMTA/CMTAT-Solana
+
+[**Document**]()
+
+[**Reference Repository:**](https://github.com/CMTA/CMTAT-Solana)
 
 ## Overview
 
